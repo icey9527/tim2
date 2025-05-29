@@ -1,1 +1,1 @@
-# tim2
+极致简单的tim2转png图片的python，带alpha通道
